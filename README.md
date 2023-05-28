@@ -1,4 +1,5 @@
 # RESPIN_ASRU_Challenge_2023
+https://sites.google.com/view/respinasrchallenge2023/challenge
 
 <h4>Corpus</h4>
 
