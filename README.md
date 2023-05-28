@@ -5,7 +5,7 @@
 ----
 
 The audio files are available at https://ee.iisc.ac.in/madasr23dataset/. <br>
-The train and dev splits for both languages - Bengali (bn) and Bhojpuri (bh) are present in corpus folder <br>
+The train and dev splits for both languages - Bengali (bn) and Bhojpuri (bh) are present in ```corpus``` folder <br>
 The data is arranged in kaldi data preparation format - https://kaldi-asr.org/doc/data_prep.html. This will work for kaldi, espnet, k2 etc tooklits.  <br>
 ```utt2lang``` contains dialect mappings and ```txtids``` contains the unique ID of the sentences. <br>
 You will have to modify ```wav.scp``` to reflect the path of downloaded audio.  <br>
