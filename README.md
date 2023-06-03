@@ -28,7 +28,7 @@ Bengali - https://ee.iisc.ac.in/madasr23dataset/download/CSRIL_finetuned_RESPIN_
 
 These models can be used for Track 3 and 4. They can be decoded using fairseq, with a language model. <br>
 We provide 2 language models (trained with <a href="https://github.com/kpu/kenlm">kenlm</a>), one trained on training text (for Track 3) and another on additional dialect+domain text (Track 4). <br> 
-We provide the scripts to train language model and decode with fairseq in ```fairseq_utils``` folder, and the trained models are present in ```kenlm_models ``` folder.
+We provide the scripts to train language model and decode with fairseq in ```fairseq_utils``` folder, and the trained models are present in ```kenlm_models``` folder.
 
 ---
 In case of any issues, contact challenge.respin@iisc.ac.in / sathvikudupa66@gmail.com
