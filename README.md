@@ -17,7 +17,7 @@ If you are using fairseq, you can first modify wav.scp as previously shown and t
 
 ---
 
-<hr>Baselines</h4>
+<h4>Baselines</h4>
 
 ---
 We fine tune wav2vec2 based pretrained model trained on Indian languages (CLSRIL-23), available <a href="https://github.com/Open-Speech-EkStep/vakyansh-models">here</a>.
