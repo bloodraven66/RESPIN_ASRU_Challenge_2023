@@ -30,5 +30,24 @@ These models can be used for Track 3 and 4. They can be decoded using fairseq, w
 We provide 2 language models (trained with <a href="https://github.com/kpu/kenlm">kenlm</a>), one trained on training text (for Track 3) and another on additional dialect+domain text (Track 4). <br> 
 We provide the scripts to train language model and decode with fairseq in ```fairseq_utils``` folder, and the trained models are present in ```kenlm_models``` folder.
 
+Bhojpuri baseline models
+
+| track  | Model | WER |
+| ------------- | ------------- | ------------- |
+| 1  | espnet-conformer  | 20.1 |
+| 2  | kaldi  | |
+| 3  | fairseq-wav2vec2  | 18.13 |
+| 4  | fairseq-wav2vec2  | 15.7 |
+
+Bengali baseline models
+
+| track  | Model | WER |
+| ------------- | ------------- | ------------- |
+| 1  | espnet-conformer  | 20.7 |
+| 2  | kaldi  | |
+| 3  | fairseq-wav2vec2  | 19.1 |
+| 4  | fairseq-wav2vec2  | 15.71 |
+
+
 ---
 In case of any issues, contact challenge.respin@iisc.ac.in / sathvikudupa66@gmail.com
