@@ -35,18 +35,20 @@ Bhojpuri baseline models
 | track  | Model | WER |
 | ------------- | ------------- | ------------- |
 | 1  | espnet-conformer  | 20.1 |
-| 2  | kaldi  | |
+| 2  | kaldi  | 19.36 |
 | 3  | fairseq-wav2vec2  | 18.13 |
 | 4  | fairseq-wav2vec2  | 15.7 |
+| 4  | kaldi  | 18.09 |
 
 Bengali baseline models
 
 | track  | Model | WER |
 | ------------- | ------------- | ------------- |
 | 1  | espnet-conformer  | 20.7 |
-| 2  | kaldi  | |
+| 2  | kaldi  | 19.82 |
 | 3  | fairseq-wav2vec2  | 19.1 |
 | 4  | fairseq-wav2vec2  | 15.71 |
+| 4  | kaldi  | 16.85 |
 
 
 ---
