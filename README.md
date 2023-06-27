@@ -27,7 +27,7 @@ Bhojpuri - https://ee.iisc.ac.in/madasr23dataset/download/CSRIL_finetuned_RESPIN
 Bengali - https://ee.iisc.ac.in/madasr23dataset/download/CSRIL_finetuned_RESPIN_Bengali.pt <br>
 
 These models can be used for Track 3 and 4. They can be decoded using fairseq, with a language model. <br>
-We provide 2 language models (trained with <a href="https://github.com/kpu/kenlm">kenlm</a>), one trained on training text (for Track 3) and another on additional dialect+domain text (Track 4). <br> 
+We provide 2 language models (trained with <a href="https://github.com/kpu/kenlm">kenlm</a>), one trained on training text (for Track 3) and another on additional dialect+domain text (Track 4). Note that you may use the additional text provided in this repository for track 1 and track 3.<br> 
 We provide the scripts to train language model and decode with fairseq in ```fairseq_utils``` folder, and the trained models are present in ```kenlm_models``` folder.
 
 Bhojpuri baseline models
