@@ -1,6 +1,10 @@
 # RESPIN_ASRU_Challenge_2023
 https://sites.google.com/view/respinasrchallenge2023/challenge
 
+<h4>Test set</h4>h4>
+Test audios, along with metadata is shared at https://ee.iisc.ac.in/madasr23dataset/download/test_set.tar.gz
+
+Submission form will open on June 30th. It will be a json file with format {name}-{teamname}\_{affiliation}\_submission-{x}_{lang}_track-{number}.json. An example file is shared in this repo (sathvik-NA_iisc_submission-1_bh_track-1.json)
 <h4>Corpus</h4>
 
 ---
